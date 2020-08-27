@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+    <line>
+      <![CDATA[Before Method]]>
+    </line>
+    <line>
+      <![CDATA[Test 1 Started]]>
+    </line>
+    <line>
+      <![CDATA[URL of the loaded page : SuiteCRM]]>
+    </line>
+    <line>
+      <![CDATA[After Method]]>
+    </line>
+    <line>
+      <![CDATA[Before Method]]>
+    </line>
+    <line>
+      <![CDATA[Test 2 Started]]>
+    </line>
+    <line>
+      <![CDATA[ url of the header image : http://www.suitecrm.com/]]>
+    </line>
+    <line>
+      <![CDATA[After Method]]>
+    </line>
+    <line>
+      <![CDATA[Before Method]]>
+    </line>
+    <line>
+      <![CDATA[Test 3 Started]]>
+    </line>
+    <line>
+      <![CDATA[  first copyright text in the footer : © Supercharged by SuiteCRM]]>
+    </line>
+    <line>
+      <![CDATA[After Method]]>
+    </line>
+    <line>
+      <![CDATA[Before Method]]>
+    </line>
+    <line>
+      <![CDATA[Test 4 Started]]>
+    </line>
+    <line>
+      <![CDATA[Suite CRM Homepage is opened]]>
+    </line>
+    <line>
+      <![CDATA[After Method]]>
+    </line>
+    <line>
+      <![CDATA[Before Method]]>
+    </line>
+    <line>
+      <![CDATA[Test 5 Started]]>
+    </line>
+    <line>
+      <![CDATA[Suite CRM Homepage is opened]]>
+    </line>
+    <line>
+      <![CDATA[Navigation Menu Color rgba(83, 77, 100, 1)]]>
+    </line>
+    <line>
+      <![CDATA[After Method]]>
+    </line>
+    <line>
+      <![CDATA[Before Method]]>
+    </line>
+    <line>
+      <![CDATA[Test 6 Started]]>
+    </line>
+    <line>
+      <![CDATA[Suite CRM Homepage is opened]]>
+    </line>
+    <line>
+      <![CDATA[Menu Exists ACTIVITIES]]>
+    </line>
+    <line>
+      <![CDATA[AfterMethod]]>
+    </line>
+    <line>
+      <![CDATA[BeforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[Test 7 Started]]>
+    </line>
+    <line>
+      <![CDATA[Suite CRM Homepage is opened]]>
+    </line>
+    <line>
+      <![CDATA[Phone Number 9876543210]]>
+    </line>
+    <line>
+      <![CDATA[AfterMethod]]>
+    </line>
+    <line>
+      <![CDATA[Before Method]]>
+    </line>
+    <line>
+      <![CDATA[Test 8 Started]]>
+    </line>
+    <line>
+      <![CDATA[Suite CRM Homepage is opened]]>
+    </line>
+    <line>
+      <![CDATA[Number of rows in Table 20]]>
+    </line>
+    <line>
+      <![CDATA[Name of the 1th row 5D Investments]]>
+    </line>
+    <line>
+      <![CDATA[Name of the 3th row 5D Investments]]>
+    </line>
+    <line>
+      <![CDATA[Name of the 5th row AB Drivers Limited]]>
+    </line>
+    <line>
+      <![CDATA[Name of the 7th row B.C. Investing International]]>
+    </line>
+    <line>
+      <![CDATA[Name of the 9th row B.H. Edwards Inc]]>
+    </line>
+    <line>
+      <![CDATA[After Method]]>
+    </line>
+    <line>
+      <![CDATA[Before Method]]>
+    </line>
+    <line>
+      <![CDATA[Test 9 Started]]>
+    </line>
+    <line>
+      <![CDATA[Suite CRM Homepage is opened]]>
+    </line>
+    <line>
+      <![CDATA[Number of rows in Table 20]]>
+    </line>
+    <line>
+      <![CDATA[Name of the 1th row Mr. A r]]>
+    </line>
+    <line>
+      <![CDATA[User of the 1th row admin]]>
+    </line>
+    <line>
+      <![CDATA[Name of the 2th row Mr. A Rahman]]>
+    </line>
+    <line>
+      <![CDATA[User of the 2th row admin]]>
+    </line>
+    <line>
+      <![CDATA[Name of the 3th row Ms. ABC xyz]]>
+    </line>
+    <line>
+      <![CDATA[User of the 3th row admin]]>
+    </line>
+    <line>
+      <![CDATA[Name of the 4th row Mr. abcd test]]>
+    </line>
+    <line>
+      <![CDATA[User of the 4th row admin]]>
+    </line>
+    <line>
+      <![CDATA[Name of the 5th row abdc xyz]]>
+    </line>
+    <line>
+      <![CDATA[User of the 5th row admin]]>
+    </line>
+    <line>
+      <![CDATA[Name of the 6th row ahs]]>
+    </line>
+    <line>
+      <![CDATA[User of the 6th row admin]]>
+    </line>
+    <line>
+      <![CDATA[Name of the 7th row Alfalfa]]>
+    </line>
+    <line>
+      <![CDATA[User of the 7th row admin]]>
+    </line>
+    <line>
+      <![CDATA[Name of the 8th row Alfred]]>
+    </line>
+    <line>
+      <![CDATA[User of the 8th row admin]]>
+    </line>
+    <line>
+      <![CDATA[Name of the 9th row Allene Santucci]]>
+    </line>
+    <line>
+      <![CDATA[User of the 9th row chris]]>
+    </line>
+    <line>
+      <![CDATA[Name of the 10th row Ms. Ananya Sutradhar]]>
+    </line>
+    <line>
+      <![CDATA[User of the 10th row admin]]>
+    </line>
+    <line>
+      <![CDATA[After Method]]>
+    </line>
+  </reporter-output>
+  <suite name="suiteCRM" duration-ms="226250" started-at="2020-08-27T06:40:28Z" finished-at="2020-08-27T06:44:15Z">
+    <groups>
+    </groups>
+    <test name="SuiteCRMTests" duration-ms="226250" started-at="2020-08-27T06:40:28Z" finished-at="2020-08-27T06:44:15Z">
+      <class name="suiteCRM.Activity5">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:suiteCRM.Activity5@a7e666]" name="beforeMethod" is-config="true" duration-ms="16993" started-at="2020-08-27T06:41:45Z" finished-at="2020-08-27T06:42:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="activityTest5()[pri:0, instance:suiteCRM.Activity5@a7e666]" name="activityTest5" duration-ms="8073" started-at="2020-08-27T06:42:02Z" finished-at="2020-08-27T06:42:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 5 Started]]>
+            </line>
+            <line>
+              <![CDATA[Suite CRM Homepage is opened]]>
+            </line>
+            <line>
+              <![CDATA[Navigation Menu Color rgba(83, 77, 100, 1)]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- activityTest5 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:suiteCRM.Activity5@a7e666]" name="afterMethod" is-config="true" duration-ms="171" started-at="2020-08-27T06:42:11Z" finished-at="2020-08-27T06:42:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- suiteCRM.Activity5 -->
+      <class name="suiteCRM.Activity6">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:suiteCRM.Activity6@68bbe345]" name="beforeMethod" is-config="true" duration-ms="18062" started-at="2020-08-27T06:42:11Z" finished-at="2020-08-27T06:42:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="activityTest6()[pri:0, instance:suiteCRM.Activity6@68bbe345]" name="activityTest6" duration-ms="7774" started-at="2020-08-27T06:42:29Z" finished-at="2020-08-27T06:42:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 6 Started]]>
+            </line>
+            <line>
+              <![CDATA[Suite CRM Homepage is opened]]>
+            </line>
+            <line>
+              <![CDATA[Menu Exists ACTIVITIES]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- activityTest6 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:suiteCRM.Activity6@68bbe345]" name="afterMethod" is-config="true" duration-ms="193" started-at="2020-08-27T06:42:37Z" finished-at="2020-08-27T06:42:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[AfterMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- suiteCRM.Activity6 -->
+      <class name="suiteCRM.Activity3">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:suiteCRM.Activity3@6737fd8f]" name="beforeMethod" is-config="true" duration-ms="14431" started-at="2020-08-27T06:41:09Z" finished-at="2020-08-27T06:41:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="activityTest3()[pri:0, instance:suiteCRM.Activity3@6737fd8f]" name="activityTest3" duration-ms="102" started-at="2020-08-27T06:41:23Z" finished-at="2020-08-27T06:41:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 3 Started]]>
+            </line>
+            <line>
+              <![CDATA[  first copyright text in the footer : © Supercharged by SuiteCRM]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- activityTest3 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:suiteCRM.Activity3@6737fd8f]" name="afterMethod" is-config="true" duration-ms="252" started-at="2020-08-27T06:41:24Z" finished-at="2020-08-27T06:41:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- suiteCRM.Activity3 -->
+      <class name="suiteCRM.Activity4">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:suiteCRM.Activity4@72b6cbcc]" name="beforeMethod" is-config="true" duration-ms="14701" started-at="2020-08-27T06:41:24Z" finished-at="2020-08-27T06:41:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="activityTest4()[pri:0, instance:suiteCRM.Activity4@72b6cbcc]" name="activityTest4" duration-ms="6834" started-at="2020-08-27T06:41:38Z" finished-at="2020-08-27T06:41:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 4 Started]]>
+            </line>
+            <line>
+              <![CDATA[Suite CRM Homepage is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- activityTest4 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:suiteCRM.Activity4@72b6cbcc]" name="afterMethod" is-config="true" duration-ms="126" started-at="2020-08-27T06:41:45Z" finished-at="2020-08-27T06:41:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- suiteCRM.Activity4 -->
+      <class name="suiteCRM.Activity1">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:suiteCRM.Activity1@63e2203c]" name="beforeMethod" is-config="true" duration-ms="20639" started-at="2020-08-27T06:40:28Z" finished-at="2020-08-27T06:40:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="activityTest1()[pri:0, instance:suiteCRM.Activity1@63e2203c]" name="activityTest1" duration-ms="58" started-at="2020-08-27T06:40:49Z" finished-at="2020-08-27T06:40:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 1 Started]]>
+            </line>
+            <line>
+              <![CDATA[URL of the loaded page : SuiteCRM]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- activityTest1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:suiteCRM.Activity1@63e2203c]" name="afterMethod" is-config="true" duration-ms="315" started-at="2020-08-27T06:40:49Z" finished-at="2020-08-27T06:40:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- suiteCRM.Activity1 -->
+      <class name="suiteCRM.Activity2">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:suiteCRM.Activity2@1efed156]" name="beforeMethod" is-config="true" duration-ms="19211" started-at="2020-08-27T06:40:49Z" finished-at="2020-08-27T06:41:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="activityTest2()[pri:0, instance:suiteCRM.Activity2@1efed156]" name="activityTest2" duration-ms="127" started-at="2020-08-27T06:41:09Z" finished-at="2020-08-27T06:41:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 2 Started]]>
+            </line>
+            <line>
+              <![CDATA[ url of the header image : http://www.suitecrm.com/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- activityTest2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:suiteCRM.Activity2@1efed156]" name="afterMethod" is-config="true" duration-ms="225" started-at="2020-08-27T06:41:09Z" finished-at="2020-08-27T06:41:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- suiteCRM.Activity2 -->
+      <class name="suiteCRM.Activity9">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:suiteCRM.Activity9@4bbfb90a]" name="beforeMethod" is-config="true" duration-ms="20241" started-at="2020-08-27T06:43:41Z" finished-at="2020-08-27T06:44:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="activityTest9()[pri:0, instance:suiteCRM.Activity9@4bbfb90a]" name="activityTest9" duration-ms="13525" started-at="2020-08-27T06:44:01Z" finished-at="2020-08-27T06:44:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 9 Started]]>
+            </line>
+            <line>
+              <![CDATA[Suite CRM Homepage is opened]]>
+            </line>
+            <line>
+              <![CDATA[Number of rows in Table 20]]>
+            </line>
+            <line>
+              <![CDATA[Name of the 1th row Mr. A r]]>
+            </line>
+            <line>
+              <![CDATA[User of the 1th row admin]]>
+            </line>
+            <line>
+              <![CDATA[Name of the 2th row Mr. A Rahman]]>
+            </line>
+            <line>
+              <![CDATA[User of the 2th row admin]]>
+            </line>
+            <line>
+              <![CDATA[Name of the 3th row Ms. ABC xyz]]>
+            </line>
+            <line>
+              <![CDATA[User of the 3th row admin]]>
+            </line>
+            <line>
+              <![CDATA[Name of the 4th row Mr. abcd test]]>
+            </line>
+            <line>
+              <![CDATA[User of the 4th row admin]]>
+            </line>
+            <line>
+              <![CDATA[Name of the 5th row abdc xyz]]>
+            </line>
+            <line>
+              <![CDATA[User of the 5th row admin]]>
+            </line>
+            <line>
+              <![CDATA[Name of the 6th row ahs]]>
+            </line>
+            <line>
+              <![CDATA[User of the 6th row admin]]>
+            </line>
+            <line>
+              <![CDATA[Name of the 7th row Alfalfa]]>
+            </line>
+            <line>
+              <![CDATA[User of the 7th row admin]]>
+            </line>
+            <line>
+              <![CDATA[Name of the 8th row Alfred]]>
+            </line>
+            <line>
+              <![CDATA[User of the 8th row admin]]>
+            </line>
+            <line>
+              <![CDATA[Name of the 9th row Allene Santucci]]>
+            </line>
+            <line>
+              <![CDATA[User of the 9th row chris]]>
+            </line>
+            <line>
+              <![CDATA[Name of the 10th row Ms. Ananya Sutradhar]]>
+            </line>
+            <line>
+              <![CDATA[User of the 10th row admin]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- activityTest9 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:suiteCRM.Activity9@4bbfb90a]" name="afterMethod" is-config="true" duration-ms="222" started-at="2020-08-27T06:44:14Z" finished-at="2020-08-27T06:44:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- suiteCRM.Activity9 -->
+      <class name="suiteCRM.Activity7">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:suiteCRM.Activity7@30b8a058]" name="beforeMethod" is-config="true" duration-ms="14870" started-at="2020-08-27T06:42:37Z" finished-at="2020-08-27T06:42:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[BeforeMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="activityTest7()[pri:0, instance:suiteCRM.Activity7@30b8a058]" name="activityTest7" duration-ms="14451" started-at="2020-08-27T06:42:52Z" finished-at="2020-08-27T06:43:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 7 Started]]>
+            </line>
+            <line>
+              <![CDATA[Suite CRM Homepage is opened]]>
+            </line>
+            <line>
+              <![CDATA[Phone Number 9876543210]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- activityTest7 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:suiteCRM.Activity7@30b8a058]" name="afterMethod" is-config="true" duration-ms="4372" started-at="2020-08-27T06:43:06Z" finished-at="2020-08-27T06:43:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[AfterMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- suiteCRM.Activity7 -->
+      <class name="suiteCRM.Activity8">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:suiteCRM.Activity8@7494e528]" name="beforeMethod" is-config="true" duration-ms="15891" started-at="2020-08-27T06:43:10Z" finished-at="2020-08-27T06:43:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="activityTest8()[pri:0, instance:suiteCRM.Activity8@7494e528]" name="activityTest8" duration-ms="14205" started-at="2020-08-27T06:43:26Z" finished-at="2020-08-27T06:43:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 8 Started]]>
+            </line>
+            <line>
+              <![CDATA[Suite CRM Homepage is opened]]>
+            </line>
+            <line>
+              <![CDATA[Number of rows in Table 20]]>
+            </line>
+            <line>
+              <![CDATA[Name of the 1th row 5D Investments]]>
+            </line>
+            <line>
+              <![CDATA[Name of the 3th row 5D Investments]]>
+            </line>
+            <line>
+              <![CDATA[Name of the 5th row AB Drivers Limited]]>
+            </line>
+            <line>
+              <![CDATA[Name of the 7th row B.C. Investing International]]>
+            </line>
+            <line>
+              <![CDATA[Name of the 9th row B.H. Edwards Inc]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- activityTest8 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:suiteCRM.Activity8@7494e528]" name="afterMethod" is-config="true" duration-ms="119" started-at="2020-08-27T06:43:41Z" finished-at="2020-08-27T06:43:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- suiteCRM.Activity8 -->
+    </test> <!-- SuiteCRMTests -->
+  </suite> <!-- suiteCRM -->
+</testng-results>

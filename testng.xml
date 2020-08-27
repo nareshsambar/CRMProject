@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="suiteCRM">
+	<listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    </listeners>
+    <test name="SuiteCRMTests">
+        <classes>
+            <class name="suiteCRM.Activity1" />
+            <class name="suiteCRM.Activity2" />
+            <class name="suiteCRM.Activity3" />
+            <class name="suiteCRM.Activity4" />
+            <class name="suiteCRM.Activity5" />
+            <class name="suiteCRM.Activity6" />
+            <class name="suiteCRM.Activity7" />
+            <class name="suiteCRM.Activity8" />
+            <class name="suiteCRM.Activity9" />
+        </classes>
+    </test>
+</suite>
